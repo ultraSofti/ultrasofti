@@ -9,3 +9,6 @@
 - 📫 How to reach me: Twitter - @fundadyfilms
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I make comic videos and short films on youtube
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=ultrasofti&&show_icons=true&title_color=ffffff&icon_color=Dbb2acf&text_color=daf7dc&bg_color=151515">
