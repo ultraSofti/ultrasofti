@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on SoundPie App
-- 🌱 I’m currently learning PHP/Laravel
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about Kotlin or any Android related stuff
 - 📫 How to reach me: Twitter - 
 - 😄 Pronouns: He/His
