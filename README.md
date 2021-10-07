@@ -1,7 +1,7 @@
 ### Hi, I'm Sylvester Akwaowo 👋
 
 
-- 🔭 I’m currently working on the MotherTongue App
+- 🔭 I’m currently building the MotherTongue App
 - 💬 Ask me about Kotlin or any Android related stuff
 - 📫 How to reach me: Twitter - 
 - 😄 Pronouns: He/His
