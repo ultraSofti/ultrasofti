@@ -1,8 +1,7 @@
 ### Hi, I'm Sylvester Akwaowo 👋
 
 
-- 🔭 I’m currently working on SoundPie App
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working on the MotherTongue App
 - 💬 Ask me about Kotlin or any Android related stuff
 - 📫 How to reach me: Twitter - 
 - 😄 Pronouns: He/His
